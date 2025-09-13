@@ -1,0 +1,31 @@
+.t{
+    font-weight:bold;
+    color:red;
+    font-size:15px;
+}
+.c{
+    font-weight:bold;
+    color:black;
+    font-size:15px;
+}
+.h{
+    font-weight:bold;
+    color:black;
+    font-size:15px;
+}
+.i{
+    font-weight:bold;
+    color:black;
+    font-size:15px;
+}
+.j{
+    font-weight:bold;
+    color:black;
+    font-size:15px;
+}
+.co{
+    width: fit-content;
+    border-radius:200;
+    border:2px solid black;
+    margin:5px;
+}

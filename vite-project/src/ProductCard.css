@@ -1,0 +1,26 @@
+.title{
+    font-weight:bold;
+    color:black;
+    font-size:15px;
+}
+.com{
+    font-weight:bold;
+    color:blue;
+    font-size:15px;
+}
+.con{
+    font-weight:bold;
+    color:green;
+    font-size:15px;
+}
+.on{
+    font-weight:bold;
+    color:red;
+    font-size:15px;
+}
+.cont{
+    width:fit-content;
+    border-radius:200;
+    border:2px solid black;
+    margin:20px;
+}

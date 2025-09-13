@@ -1,11 +1,12 @@
-function ProductCard({rname,cost,avl,})
+ import "./ProductCard.css"
+ function ProductCard(variable)
 {
-    
+
     return (
-        <div>
-            <p>product ={rname}</p>
-            <p>cost = {cost}</p>
-            <p>{avl===true?"In stock":"Out of stock"}</p>
+        <div className="cont">
+            <p className="title"> variablername{variable.rname}</p>
+            <p className="com">variablecost{variable.cost }</p>
+            <p>{variable.avl===true?<p className="con">"In stock"</p>:<p className="on">"Out of stock"</p>}</p>
         </div>
     )
 }
